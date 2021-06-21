@@ -1,0 +1,110 @@
+C:\Users\aymane\Desktop\DOT NET\obj\Debug\net5.0\DOT NET.csproj.AssemblyReference.cache
+C:\Users\aymane\Desktop\DOT NET\obj\Debug\net5.0\DOT NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aymane\Desktop\DOT NET\obj\Debug\net5.0\DOT NET.AssemblyInfoInputs.cache
+C:\Users\aymane\Desktop\DOT NET\obj\Debug\net5.0\DOT NET.AssemblyInfo.cs
+C:\Users\aymane\Desktop\DOT NET\obj\Debug\net5.0\DOT NET.csproj.CoreCompileInputs.cache
+C:\Users\aymane\Desktop\DOT NET\obj\Debug\net5.0\DOT NET.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aymane\Desktop\DOT NET\obj\Debug\net5.0\DOT NET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aymane\Desktop\DOT NET\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\aymane\Desktop\DOT NET\bin\Debug\net5.0\appsettings.json
+C:\Users\aymane\Desktop\DOT NET\bin\Debug\net5.0\DOT NET.exe
+C:\Users\aymane\Desktop\DOT NET\bin\Debug\net5.0\DOT NET.deps.json
+C:\Users\aymane\Desktop\DOT NET\bin\Debug\net5.0\DOT NET.runtimeconfig.json
+C:\Users\aymane\Desktop\DOT NET\bin\Debug\net5.0\DOT NET.runtimeconfig.dev.json
+C:\Users\aymane\Desktop\DOT NET\bin\Debug\net5.0\DOT NET.dll
+C:\Users\aymane\Desktop\DOT NET\bin\Debug\net5.0\ref\DOT NET.dll
+C:\Users\aymane\Desktop\DOT NET\bin\Debug\net5.0\DOT NET.pdb
+C:\Users\aymane\Desktop\DOT NET\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\aymane\Desktop\DOT NET\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aymane\Desktop\DOT NET\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aymane\Desktop\DOT NET\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aymane\Desktop\DOT NET\obj\Debug\net5.0\staticwebassets\DOT NET.StaticWebAssets.Manifest.cache
+C:\Users\aymane\Desktop\DOT NET\obj\Debug\net5.0\staticwebassets\DOT NET.StaticWebAssets.xml
+C:\Users\aymane\Desktop\DOT NET\obj\Debug\net5.0\scopedcss\bundle\DOT NET.styles.css
+C:\Users\aymane\Desktop\DOT NET\obj\Debug\net5.0\DOT NET.RazorTargetAssemblyInfo.cache
+C:\Users\aymane\Desktop\DOT NET\obj\Debug\net5.0\DOT NET.csproj.CopyComplete
+C:\Users\aymane\Desktop\DOT NET\obj\Debug\net5.0\DOT NET.dll
+C:\Users\aymane\Desktop\DOT NET\obj\Debug\net5.0\ref\DOT NET.dll
+C:\Users\aymane\Desktop\DOT NET\obj\Debug\net5.0\DOT NET.pdb
+C:\Users\aymane\Desktop\DOT NET\obj\Debug\net5.0\DOT NET.genruntimeconfig.cache
+C:\Users\aymane\Desktop\DOT NET\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\aymane\Desktop\DOT NET\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\aymane\Desktop\DOT NET\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\aymane\Desktop\DOT NET\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\aymane\Desktop\DOT NET\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\aymane\Desktop\DOT NET\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aymane\Desktop\DOT NET\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\aymane\Desktop\DOT NET\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aymane\Desktop\DOT NET\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aymane\Desktop\DOT NET\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aymane\Desktop\DOT NET\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aymane\Desktop\DOT NET\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\aymane\Desktop\DOT NET\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\aymane\Desktop\DOT NET\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\aymane\Desktop\DOT NET\bin\Debug\net5.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\aymane\Desktop\DOT NET\bin\Debug\net5.0\Renci.SshNet.dll
+C:\Users\aymane\Desktop\DOT NET\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+C:\Users\aymane\Desktop\DOT NET\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aymane\Desktop\DOT NET\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aymane\Desktop\DOT NET\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\aymane\Desktop\DOT NET\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aymane\Desktop\DOT NET\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\aymane\Desktop\DOT NET\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aymane\Desktop\DOT NET\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aymane\Desktop\DOT NET\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aymane\Desktop\DOT NET\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\bin\Debug\net5.0\appsettings.json
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\bin\Debug\net5.0\DOT NET.exe
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\bin\Debug\net5.0\DOT NET.deps.json
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\bin\Debug\net5.0\DOT NET.runtimeconfig.json
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\bin\Debug\net5.0\DOT NET.runtimeconfig.dev.json
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\bin\Debug\net5.0\DOT NET.dll
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\bin\Debug\net5.0\ref\DOT NET.dll
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\bin\Debug\net5.0\DOT NET.pdb
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\bin\Debug\net5.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\bin\Debug\net5.0\Renci.SshNet.dll
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\obj\Debug\net5.0\DOT NET.csproj.AssemblyReference.cache
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\obj\Debug\net5.0\DOT NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\obj\Debug\net5.0\DOT NET.AssemblyInfoInputs.cache
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\obj\Debug\net5.0\DOT NET.AssemblyInfo.cs
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\obj\Debug\net5.0\DOT NET.csproj.CoreCompileInputs.cache
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\obj\Debug\net5.0\DOT NET.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\obj\Debug\net5.0\DOT NET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\obj\Debug\net5.0\staticwebassets\DOT NET.StaticWebAssets.Manifest.cache
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\obj\Debug\net5.0\staticwebassets\DOT NET.StaticWebAssets.xml
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\obj\Debug\net5.0\scopedcss\bundle\DOT NET.styles.css
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\obj\Debug\net5.0\DOT NET.RazorTargetAssemblyInfo.cache
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\obj\Debug\net5.0\DOT NET.csproj.CopyComplete
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\obj\Debug\net5.0\DOT NET.dll
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\obj\Debug\net5.0\ref\DOT NET.dll
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\obj\Debug\net5.0\DOT NET.pdb
+C:\Users\aymane\Desktop\DOT NET\dotnet-back\obj\Debug\net5.0\DOT NET.genruntimeconfig.cache
